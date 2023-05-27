@@ -30,6 +30,6 @@ pip install wikipedia
 ## Projects
 
 | Project No. | Language | Project                                                                            | Author                                         |
-|-------------|----------|------------------------------------------------------------------------------------|------------------------------------------------|
-| 1     | Python   | [Desktop Assistant](https://github.com/carsonmagee/ResumeProjects/tree/DesktopAssistant) | [Carson Magee](https://github.com/carsonmagee) |
-| 2     | Python   | [Project Template](https://github.com/carsonmagee/ResumeProjects)                        | [Carson Magee](https://github.com/carsonmagee) |
+|-------------|----------|------------------------------------------------------------|------------------------------------------------|
+| 1     | Python   | [Desktop Assistant](https://github.com/carsonmagee/urlShortener) | [Carson Magee](https://github.com/carsonmagee) |
+| 2     | Python   | [Project Template](https://github.com/carsonmagee/ResumeProjects)| [Carson Magee](https://github.com/carsonmagee) |
