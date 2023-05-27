@@ -29,7 +29,7 @@ pip install wikipedia
 
 ## Projects
 
-| SR No | Project                                                                                                                                           | Author                                                      |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| 1     | [Project Template](https://github.com/carsonmagee/tree/main)                                                                                      | [Carson Magee](https://github.com/carsonmagee)              |
-| 2     | [Project Template](https://github.com/carsonmagee/tree/main)                                                                                      | [Carson Magee](https://github.com/carsonmagee)              |
+| Project No. | Language | Project                                                                            | Author                                         |
+|-------------|----------|------------------------------------------------------------------------------------|------------------------------------------------|
+| 1     | Python   | [Desktop Assistant](https://github.com/carsonmagee/ResumeProjects/tree/DesktopAssistant) | [Carson Magee](https://github.com/carsonmagee) |
+| 2     | Python   | [Project Template](https://github.com/carsonmagee/ResumeProjects)                        | [Carson Magee](https://github.com/carsonmagee) |
