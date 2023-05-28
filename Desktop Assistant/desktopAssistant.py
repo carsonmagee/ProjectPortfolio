@@ -152,7 +152,7 @@ def Take_query():
          
         elif "from wikipedia" in query:
              
-            # if any one wants to have a information
+            # if any one wants to have information
             # from wikipedia
             speak("Checking the wikipedia ")
             query = query.replace("wikipedia", "")
