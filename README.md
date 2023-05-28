@@ -7,10 +7,7 @@ to each of my projects created in various programming languages. I believe you w
 
 ## Python
 
-### Installation
-
-#### PIP
-
+#### All PIP Used
 ```
 pip3 install pyshorteners
 pip install pyaudio 
@@ -31,5 +28,5 @@ pip install wikipedia
 
 | Project No. | Language | Project                                                                            | Author                                         |
 |-------------|----------|------------------------------------------------------------|------------------------------------------------|
-| 1     | Python   | [Desktop Assistant](https://github.com/carsonmagee/urlShortener) | [Carson Magee](https://github.com/carsonmagee) |
-| 2     | Python   | [Project Template](https://github.com/carsonmagee/ResumeProjects)| [Carson Magee](https://github.com/carsonmagee) |
+| 1     | Python   | [Desktop Assistant](https://github.com/carsonmagee/ResumeProjects/tree/main/Desktop%20Assistant) | [Carson Magee](https://github.com/carsonmagee) |
+| 2     | Python   | [URL Shortener](https://github.com/carsonmagee/ResumeProjects/tree/main/URL%20Shortener)| [Carson Magee](https://github.com/carsonmagee) |
