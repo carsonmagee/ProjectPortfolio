@@ -5,8 +5,8 @@ This project is a fully functional version of the original game, Minesweeper ori
 The motivation behind this project was to quickly produce a functioning game, using the limitations of a non-GUI and native C++ code.
 
 ## Screenshots
-<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/544ee2a1-33b6-48b0-ae32-404230357fc7" width="200" />
-<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/ead1ceaf-6061-4e7f-a58e-230a9d4e1b7f" width="200" />
+<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/e73c831f-b1c2-499e-8b65-d244460ed4fd" width="200" />
+<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/f01374b8-9584-46e1-a616-edb91ff86b50" width="200" />
 <img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/c6470014-0077-4a2a-9248-572c8f765569" width="200" />
 
 ## Features
