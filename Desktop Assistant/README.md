@@ -11,7 +11,7 @@ The motivation behind this project was to increase productivity by querying comp
 This project allows for easy implementation of an infinite amount of queries.
 
 ## Installation
-Open the Python code and install these pips.
+Open the Python code and install these PIP.
 ```
 #pip install pyaudio 
 #pip install pyttsx3
@@ -27,7 +27,7 @@ Below is the list of default interactions:
 ```
 Hello.
 Tell me your name.
-(Search) _______ from Wikepedia.
+(Search) _______ from Wikipedia.
 Open Google.
 Which day it is?
 Tell me the time.
