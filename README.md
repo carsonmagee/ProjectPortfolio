@@ -1,7 +1,7 @@
 # Resume Projects - Carson Magee
 
 Welcome to a presentation of portfolio projects created by Carson Magee. Below, you will find a short desciption and direct link 
-to each of my projects created in various programming languages. I believe you will find my work useful to your company.
+to each of my projects created in various programming languages. I believe you will find my skills shown through my work useful to your company.
 
 ## C++
 
