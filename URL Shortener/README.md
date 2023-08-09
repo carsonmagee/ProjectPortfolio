@@ -17,4 +17,4 @@ pip install pyshorteners
 ```
 
 ## Tests
-Simply type in your URL and copy your new url output.
+Simply type in your URL and copy your new url output. Yes, it's that easy.
