@@ -5,7 +5,9 @@ This project is a fully functional version of the original game, Minesweeper ori
 The motivation behind this project was to quickly produce a functioning game, using the limitations of a non-GUI and native C++ code.
 
 ## Screenshots
-<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/580126a3-379b-4742-9b8f-f77913b689da" width="200" />
+<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/544ee2a1-33b6-48b0-ae32-404230357fc7" width="200" />
+<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/ead1ceaf-6061-4e7f-a58e-230a9d4e1b7f" width="200" />
+<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/c6470014-0077-4a2a-9248-572c8f765569" width="200" />
 
 ## Features
 Feel free to change the difficulty of the game by increasing the plot size and bomb amounts. This can be done by changing the constant values within minesweeper.h file.
@@ -25,7 +27,7 @@ Then continue with the following Linux code.
 
 Ubuntu and Linux
 ```
-g++ *.cpp -o minesweeper
+g++ -Wall *.cpp -o minesweeper
 ./minesweeper
 ```
 
