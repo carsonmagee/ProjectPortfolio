@@ -5,7 +5,7 @@ This project allows the user to sdo simple tasks whith only their voice. This sp
 The motivation behind this project was to increase productivity by querying completely hands free.
 
 ## Screenshots
-<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/580126a3-379b-4742-9b8f-f77913b689da" width="200" />
+<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/00c6940d-4b27-474a-b6c4-179163784186" width="200" />
 
 ## Features
 This project allows for easy implementation of an infinite amount of queries.
