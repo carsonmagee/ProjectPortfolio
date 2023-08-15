@@ -30,3 +30,4 @@ pip install wikipedia
 |-------------|----------|------------------------------------------------------------|------------------------------------------------|
 | 1     | Python   | [Desktop Assistant](https://github.com/carsonmagee/ResumeProjects/tree/main/Desktop%20Assistant) | [Carson Magee](https://github.com/carsonmagee) |
 | 2     | Python   | [URL Shortener](https://github.com/carsonmagee/ResumeProjects/tree/main/URL%20Shortener)| [Carson Magee](https://github.com/carsonmagee) |
+| 3     | C++      | [Minesweeper Game]( https://github.com/carsonmagee/ProjectPortfolio/tree/main/Minesweeper)| [Carson Magee](https://github.com/carsonmagee) |
