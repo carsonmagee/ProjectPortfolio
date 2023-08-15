@@ -34,6 +34,11 @@ Copy and past the queries (found below in the tests section) into the text box w
 •	Use LIKE to filter data in at least three different queries 
 
 ## Tests
+### 1. Question
+### 2. Output
+### 3. Query
+### 4. Screenshot
+
 Question 1
 1.	What artists have the letters ‘y’ and ‘j’ and ‘x’ in their name? (Presents the use of the LIKE and WHERE and AND statements)
 2.	DJ X-Change featuring DJ Joey A, Xzibit featuring Jayo Felony and Method Man, Maurice Chevalier …, Wyclef Jean….
