@@ -22,8 +22,6 @@ pip install wikipedia
 
 ## SQL
 
-## Assembly
-
 ## Projects
 
 | Project No. | Language | Project                                                                            | Author                                         |
