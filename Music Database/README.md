@@ -14,7 +14,7 @@ to hold multiple tables within the download, however, I could not find a way to 
 ## Installation
 Download the music.db database from [CORGIS Project Site](https://corgis-edu.github.io/corgis/csv/music/)  
 Open [SQLite Online](https://sqliteonline.com/)
-Click >File >Open DB <img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/9d61ee3a-7b51-4f6e-8df4-bb0e97b82707" width="200" />
+Click File >Open DB <img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/9d61ee3a-7b51-4f6e-8df4-bb0e97b82707" width="200" />
 Select the music.DB file from your downloads <img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/439ff957-3dfd-492d-87e1-d35da9f22452" width="200" />
 Copy and past the queries (found below in the tests section) into the text box within SQLite Online. All tests and their screenshots can be found below.
 
