@@ -4,11 +4,6 @@ This project was created using Structured Query Language within the SQLite Onlin
 ## Motivation
 The motivation behind this project was to explore software other than MySQL, which I am more familiar with. I found the online browser version of SQLite quite convenient, the only issues I had were sourced from the database I used. 
 
-## Screenshots
-<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/e73c831f-b1c2-499e-8b65-d244460ed4fd" width="200" />
-<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/f01374b8-9584-46e1-a616-edb91ff86b50" width="200" />
-<img src="https://github.com/carsonmagee/ProjectPortfolio/assets/24598567/c6470014-0077-4a2a-9248-572c8f765569" width="200" />
-
 ## Features
 10 queries are listed to make competent analysis of the chosen music database.
 
