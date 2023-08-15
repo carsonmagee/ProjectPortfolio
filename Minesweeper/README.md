@@ -1,5 +1,5 @@
 # Minesweeper
-This project is a fully functional version of the original game, Minesweeper originally created by Microsoft. The main purpose of this project is to demonstrate implementation of basic back end and front end game development using scrictly native C++ programming in the command line.
+This project is a fully functional version of the original Minesweeper game, originally created by Microsoft. The main purpose of this project is to demonstrate implementation of basic back end and front end game development using scrictly native C++ programming in the command line.
 
 ## Motivation
 The motivation behind this project was to quickly produce a functioning game, using the limitations of a non-GUI and native C++ code.
