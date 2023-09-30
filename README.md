@@ -4,9 +4,10 @@ Welcome to a presentation of portfolio projects created by Carson Magee. Below, 
 to each of my projects created in various programming languages. I believe you will find my skills shown through my work useful to your company.
 
 ## C++
-
+[Minesweeper Game]( https://github.com/carsonmagee/ProjectPortfolio/tree/main/Minesweeper)
 ## Python
-
+[Desktop Assistant](https://github.com/carsonmagee/ResumeProjects/tree/main/Desktop%20Assistant) <br />
+[URL Shortener](https://github.com/carsonmagee/ResumeProjects/tree/main/URL%20Shortener)
 #### All PIP Used
 ```
 pip3 install pyshorteners
@@ -19,9 +20,9 @@ pip install wikipedia
 ```
 
 ## Java
-
+COMING SOON
 ## SQL
-
+COMING SOON
 ## Projects
 
 | Project No. | Language | Project                                                                            | Author                                         |
