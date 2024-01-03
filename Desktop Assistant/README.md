@@ -1,5 +1,5 @@
 # Desktop Assistant
-This project allows the user to do simple tasks whith only their voice. This speech to text assistant uses the on board computer microphone to detect and execute speech similar to the Siri and Alexa virtual assistants. The main purpose of this project is to enhance the efficiency of tasks such as telling the day of the week, telling time, opening Google, and checking Wikepedia.
+This project allows the user to do simple tasks whith only their voice. This speech to text assistant uses the on board computer microphone to detect and execute speech similar to the Siri and Alexa virtual assistants. The main purpose of this project is to enhance the efficiency of tasks such as telling the day of the week, telling time, opening Google, and checking Wikipedia.
 
 ## Motivation
 The motivation behind this project was to increase productivity by querying completely hands free.
