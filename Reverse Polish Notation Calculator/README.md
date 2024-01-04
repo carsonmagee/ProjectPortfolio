@@ -17,10 +17,6 @@ This project is a skeleton of a Reverse Polish Notation Calculator, including al
 
 ## Installation
 
-```
-g++ -Wall *.cpp -o minesweeper
-./minesweeper
-```
 ### Windows:
 
 Follow this tutorial to setup a C++ environment: [Visual Studio Code - C++ and Mingw-w64](https://code.visualstudio.com/docs/cpp/config-mingw)  
@@ -29,8 +25,8 @@ Then continue with the following Linux code.
 ### Ubuntu and Linux
 
 ```
-g++ -Wall *.cpp -o minesweeper
-./minesweeper
+g++ -Wall *.cpp -o rpnCalculator
+./rpnCalculator
 ```
 ## Tests
 
