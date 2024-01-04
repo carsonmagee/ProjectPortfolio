@@ -13,7 +13,7 @@ The motivation behind this project was to implement a calculator that uses postf
 
 ## Features
 
-This project is a skeleton of a Reverse Polish Notation Calculator, including all of the original features. This means the code is highly manageable and can easily have a more robust Graphical User Interface added on, as well as more in-game capabilities.
+This project is a skeleton of a Reverse Polish Notation Calculator, including all of the original features. This means the code is highly manageable and can easily have a more robust Graphical User Interface added on. For more information on the specifics of the origin and usage of the Reverse Polish Notation Calculator, please visit [Wolfram Math-World - Reverse Polish Notation]([https://code.visualstudio.com/docs/cpp/config-mingw](https://mathworld.wolfram.com/ReversePolishNotation.html)) 
 
 ## Installation
 
