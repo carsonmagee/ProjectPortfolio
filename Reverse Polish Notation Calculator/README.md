@@ -1,6 +1,6 @@
 # Reverse Polish Notation Calculator
 
-This project is a fully functional version of a Reverse Polish Notation (RPN) Calculator, created using native C++ programming in the command line.
+This project is a fully functional version of a Reverse Polish Notation (RPN) Calculator, created using native C++ programming in the command line. Similar to the original programming of the RPN Calculator, this project uses a stack to input and output the equation variables through the calculator. The RPN Calculator has proven to be useful throughout the years since the equation formatting does not use parenthesis. For example, the infix expression (3 × 4) + (5 × 6) becomes 3 4 × 5 6 × + in reverse Polish notation.
 
 ## Motivation
 
