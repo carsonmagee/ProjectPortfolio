@@ -4,7 +4,7 @@ This project is a fully functional version of a Reverse Polish Notation (RPN) Ca
 
 ## Motivation
 
-The motivation behind this project was to implement a calculator that uses postfix notation for arithmetic operations, demonstrating the use of stack data structure and native C++ code.
+The motivation behind this project was to create a calculator that was beyond the scope of commonly used libraries. This calculator uses postfix notation for arithmetic operations, demonstrating the use of stack data structure and native C++ code.
 
 ## Screenshots
 
